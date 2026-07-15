@@ -9,3 +9,4 @@ data/processed/cancellations.csv
 reports/pipeline.log
 venv/
 .DS_Store
+data/powerbi_export/
