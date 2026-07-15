@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+data/raw/*.csv
+data/raw/*.xlsx
+data/processed/*.duckdb
+data/processed/invalid_rows.csv
+data/processed/cancellations.csv
+reports/pipeline.log
+venv/
+.DS_Store
